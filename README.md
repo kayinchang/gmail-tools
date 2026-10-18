@@ -1,2 +1,2 @@
 # gmail-tools
-Homepage and privacy policy for a personal, single-user Gmail tool
+Homepage and privacy policy for Kayin Mail Tools, a personal, single-user tool for the owner's own Gmail account
