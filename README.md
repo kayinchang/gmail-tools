@@ -1,2 +1,2 @@
-# gmail-tools
-Homepage and privacy policy for Kayin Mail Tools, a private personal tool.
+# ledgerlight
+Homepage and privacy policy for Ledgerlight, a private personal tool.
